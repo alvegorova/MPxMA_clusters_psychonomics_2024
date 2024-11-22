@@ -13,7 +13,10 @@ Research shows that anxiety in mathematics (MA) negatively correlates with mathe
 
 [Poster pdf](https://github.com/alvegorova/MPxMA_clusters_psychonomics_2024/blob/main/Poster_Math_Anxiety_Psychonomic_2024.pdf)
 
-[RMarkdown Study 1](https://github.com/alvegorova/MPxMA_clusters_psychonomics_2024/blob/main/RMarkdown_Study_1.html) and [RMarkdown Study 2](https://github.com/alvegorova/MPxMA_clusters_psychonomics_2024/blob/main/RMarkdown_Study_2.html)
+RMarkdown Study 1: [pdf](https://github.com/alvegorova/MPxMA_clusters_psychonomics_2024/blob/main/RMarkdown_Study1.pdf) and 
+[html](https://github.com/alvegorova/MPxMA_clusters_psychonomics_2024/blob/main/RMarkdown_Study_1.html) 
+
+RMarkdown Study 2: [pdf](https://github.com/alvegorova/MPxMA_clusters_psychonomics_2024/blob/main/RMarkdown_Study2.pdf) and [html](https://github.com/alvegorova/MPxMA_clusters_psychonomics_2024/blob/main/RMarkdown_Study_2.html)
 
 
 **_References_**
