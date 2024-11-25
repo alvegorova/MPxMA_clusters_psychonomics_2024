@@ -5,6 +5,7 @@ This study was presented as a poster on Psychonimics 2024 annual meeting.
 **_Authors_** 
 
 Alena Egorova (alvegorova@gmail.com), Stacy T. Shaw, Ji-Eun Lee, Erin Ottmar,
+
 Worcester Polytechnic Institute
 
 **_Abstract_**
